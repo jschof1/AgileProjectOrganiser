@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>ProjectManager</title>
+    <link rel="stylesheet" href="app.css" />
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <script src="dist/app.js" defer></script>
+  </head>
+  <body>
+    <template class="items-center" id="project-input">
+      <form class="max-w-xl m-4 p-10 bg-white rounded shadow-xl">
+        <h1 class="font-bold text-center"> Project outline 📝</h1>
+        <div class="mt-2">
+          <label for="title">Title</label>
+          <input class="w-full px-5 py-1 text-gray-700 bg-gray-200 rounded" type="text" id="title" />
+        </div>
+        <div class="mt-2">
+          <label for="description">Description</label>
+          <textarea class="w-full px-5 py-1 text-grey-700 bg-gray-200 rounded" id="description" rows="3"></textarea>
+        </div>
+        <div class="mt-2">
+          <label for="people">People</label>
+          <input class="w-full px-5 py-1 text-gray-700 bg-gray-200 rounded" type="number" id="people" step="1" min="0" max="10" />
+        </div>
+        <div class="mt-4">
+        <button class="flex-no-shrink p-2 border-2 rounded text-teal border-gray-300 bg-gray-200 hover:text-white hover:bg-black" type="submit">ADD PROJECT</button>
+        </div>
+      </form>
+    </template>
+    <template id="single-project">
+      <li class="max-w-xl m-4 p-10 bg-gray-100 rounded shadow-xl" draggable="true">
+        <h2 class="underline font-bold text-lg"></h2>
+        <h3></h3>
+        <p>Team size:</p>
+      </li>
+    </template>
+    <template class="max-w-xl m-4 p-10 bg-white rounded shadow-xl" id="project-list">
+      <section class="max-w-xl m-4 p-5 items-center bg-white border-2 rounded shadow-xl" class="projects">
+        <header>
+          <h2 class="m-2 text-lg text-center"></h2>
+        </header>
+        <ul></ul>
+      </section>
+    </template>
+    <div id="app"></div>
+  </div>
+  </body>
+</html> 
