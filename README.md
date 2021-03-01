@@ -54,16 +54,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Make a new task, set the team number and when your finished drag and drop it into the completed box. Simples.
+Make a new task, set the team number, create the to-do card. When the task is finished drag and drop it into the complete box. Simples.
 
 
 ### Built With
 
-* [HTML]
-* [CSS]
-* [TypeScript]
+* HTML
+* CSS
+* TypeScript
 
 
 
