@@ -8,7 +8,7 @@
   <h3 align="center">Agile Project Organiser</h3>
 
   <p align="center">
-    project_description
+    Drag and drop team tasks
     <br />
     <a href="https://github.com/jschof1/AgileProjectOrganiser"><strong>Explore the docs »</strong></a>
     <br />
