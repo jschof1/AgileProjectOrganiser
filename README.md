@@ -59,9 +59,9 @@ Make a new task, set the team number, create the to-do card. When the task is fi
 
 ### Built With
 
-* HTML
-* CSS
-* TypeScript
+* [HTML] (HTML)
+* [CSS] (CSS)
+* [TypeScript] (TypeScript)
 
 
 
