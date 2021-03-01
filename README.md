@@ -103,5 +103,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jack Schofield - [@jack-schofield-developer](https://www.linkedin.com/in/jack-schofield-developer/) - jackschofield1@googlemail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [Aigle Project Organiser](https://github.com/jschof1/AgileProjectOrganiser)
 
