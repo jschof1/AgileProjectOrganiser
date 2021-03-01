@@ -5,7 +5,7 @@
   <a href="https://github.com/jschof1/AgileProjectOrganiser">
   </a>
 
-  <h3 align="center">Agile Project Organiser</h3>
+  <h1 align="center">Agile Project Organiser</h1>
 
   <p align="center">
     Drag and drop team tasks
