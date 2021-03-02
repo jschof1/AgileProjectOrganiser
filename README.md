@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jschof1/AgileProjectOrganiser">
-    <img src="./logo.png" alt="Logo" width="350" height="100">
+    <img src="./logo.png" alt="Logo" width="100" height="100">
   </a>
   </a>
 
