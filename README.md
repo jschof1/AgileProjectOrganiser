@@ -3,6 +3,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/jschof1/AgileProjectOrganiser">
+    <img src="./logo.png" alt="Logo" width="350" height="100">
+  </a>
   </a>
 
   <h1 align="center">Agile Project Organiser</h1>
@@ -48,6 +50,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="center">
+ <a href="https://transparentgovinfact.netlify.app/">
+    <img style="border-radius: 25% 10%;" src="./ProjectPicture.png" alt="Screens" width="600" height="400">
+  </a>
+  
+
 
 Make a new task, set the team number, create the to-do card. When the task is finished drag and drop it into the complete box. Simples.
 
