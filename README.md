@@ -52,7 +52,7 @@
 ## About The Project
 <p align="center">
  <a href="https://transparentgovinfact.netlify.app/">
-    <img style="border-radius: 25% 10%;" src="./ProjectPicture.png" alt="Screens" width="600" height="400">
+    <img style="border-radius: 25% 10%;" src="./ProjectPicture.png" alt="Screens" width="500" height="300">
   </a>
   
 
